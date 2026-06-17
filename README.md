@@ -1,4 +1,4 @@
-# 🎥 Sakila SQL Mastery: Querying a Real-World DVD Rental Database
+# 🎥 Sakila SQL: DVD-Rental-Database-Query
 
 > *From film catalogues to overdue rentals — 13 business-driven SQL queries across a fully normalized relational database.*
 
